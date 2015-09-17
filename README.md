@@ -13,3 +13,4 @@ List of algorithms and D.S.'s to add:
   * Andrew's monotone chain convex hull algorithm
   * Fenwick Tree
   * Add lazy propagation on the Segment Tree
+  * Trie
