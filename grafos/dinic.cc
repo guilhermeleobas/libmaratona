@@ -92,7 +92,7 @@ class Dinic
 		void clear()
 		{
 		    this->vEdges.clear();
-            for(int i=0; i < MAXN; i++) g[i].clear();
+           	for(int i=0; i < MAXN; i++) g[i].clear();
         }
 
 		void addEdge(int from, int to, ll cap)
