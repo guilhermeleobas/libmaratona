@@ -7,10 +7,10 @@ Some of what you can find here:
   * Tarjan's Algorithm
   * Dinic's Algorithm
   * Graham Scan ( To find the convex hull of a set of points )
+  * Andrew's monotone chain convex hull algorithm
 
 List of algorithms and D.S.'s to add:
   * Dijkstra
-  * Andrew's monotone chain convex hull algorithm
   * Fenwick Tree
   * Add lazy propagation on the Segment Tree
   * Trie
