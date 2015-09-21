@@ -42,6 +42,7 @@ int cross(point a, point b, point c) //AB x BC
 bool isCw(point a, point b, point c) //Clockwise
 { return cross(a, b, c) < 0; }
 
+// >= if you want to put collinear points on the convex hull
 bool isCcw(point a, point b, point c) //Counter Clockwise
 { return cross(a, b, c) > 0; }
 
