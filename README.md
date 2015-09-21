@@ -8,9 +8,9 @@ Some of what you can find here:
   * Dinic's Algorithm
   * Graham Scan ( To find the convex hull of a set of points )
   * Andrew's monotone chain convex hull algorithm
+  * Trie
 
 List of algorithms and D.S.'s to add:
   * Dijkstra
   * Fenwick Tree
   * Add lazy propagation on the Segment Tree
-  * Trie
