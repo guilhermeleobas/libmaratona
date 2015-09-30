@@ -20,7 +20,7 @@ void inicializa (int node, int l, int r){
 // default values
 // update (0, 0, size-1, pos);
 // size-1 => size of the array "vetor"
-// pos => position in the array "vetor" that you previously did the change
+// pos => position in the array "vetor" that you previously changed
 void update (int node, int l, int r, int pos){
 
     if (l > r || l > pos || r < pos)
