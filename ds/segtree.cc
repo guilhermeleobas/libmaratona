@@ -40,7 +40,7 @@ void update (int node, int l, int r, int pos){
 
 // default value
 // query (0, 0, size-1, i, j)
-// size-1 => reefers to the size of the array vetor
+// size-1 => refers to the size of the array vetor
 // [i, j] => query pointers
 int query (int node, int l, int r, int i, int j){
 
