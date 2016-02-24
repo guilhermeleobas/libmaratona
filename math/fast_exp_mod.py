@@ -1,5 +1,5 @@
 
-// return (base ˆ exp) % mod;
+# return (base ˆ exp) % mod;
 
 def exp_mod (base, exp, mod):
     if (mod == 1):
